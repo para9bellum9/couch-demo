@@ -12,10 +12,9 @@ The guide is made up and is rebuilt daily by a GitHub Action, so it always cover
 | Channel | Stream | Content and license |
 |---|---|---|
 | Couch Toons HD | Mux public test stream | *Big Buck Bunny* (c) Blender Foundation, peach.blender.org, CC BY 3.0 |
-| Couch Fantasy HD | Bitmovin public demo stream | *Sintel* (c) Blender Foundation, durian.blender.org, CC BY 3.0 |
 | Couch Sci-Fi 4K | Unified Streaming public demo | *Tears of Steel* (c) Blender Foundation, mango.blender.org, CC BY 3.0 |
 | Couch Test Card HD | Apple's public HLS example stream | Apple sample content, published for testing HLS players |
-| Couch Live Test | Akamai's public live test stream | Akamai test content, published for testing players |
+| Couch Live Test | Unified Streaming's public live demo | Unified Streaming test content, published for testing players |
 
 The streams are hosted by the companies above, not by this repository. Channel names, logos and guide data are original to this demo.
 Couch Player itself does not provide or sell any content.
